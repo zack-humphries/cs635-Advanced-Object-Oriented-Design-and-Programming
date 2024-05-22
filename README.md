@@ -1,5 +1,6 @@
 # cs635
 CS 635: Advanced Object-Oriented Design and Programming
+All code is for professional reference only
 
 ## Assignment 1: Trie with Linked Structure
 1. Implements a trie using a linked structure (See http://en.wikipedia.org/wiki/Trie).
